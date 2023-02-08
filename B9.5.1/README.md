@@ -1,0 +1,1 @@
+npm i sshukin_massive_worker

@@ -1,0 +1,11 @@
+{
+  "name": "sshukin_massive_worker",
+  "version": "1.0.0",
+  "description": "massive_worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sshukin",
+  "license": "ISC"
+}
